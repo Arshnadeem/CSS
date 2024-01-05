@@ -1,0 +1,25 @@
+/* Don't change the existing CSS. */
+
+.box {
+  background-color: blue;
+  padding: 10px;
+}
+
+p {
+  color:yellow;
+  margin: 0;
+  padding: 0;
+}
+/*class selelctor*/
+.white-text
+{
+  color: white;
+}
+
+.inner-box{
+  background-color: red;
+}
+/*id selector*/
+#outer-box{
+  background-color: purple;
+}
